@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon the execution of the late Viscount Stafford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06376</idno>
+            <idno type="OCLC"> 18478037</idno>
+            <idno type="STC">Wing U111</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[136]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[145]</idno>
+            <idno type="STC">ESTC R39736</idno>
+            <idno type="EEBO-CITATION">99890553</idno>
+            <idno type="PROQUEST">ocm99890553</idno>
+            <idno type="VID">181471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181471)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[138]; A1:1[146])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon the execution of the late Viscount Stafford.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D[avid]. M[allet].,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>December, 29, 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse. First line of text: "Shall every Jack and every Jill,".</note>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Poetry --  Early works to 1800.</term>
+               <term>Catholics --  England --  Controversial literature --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181471:1" rendition="simple:additions"/>
+            <head>UPON THE EXECUTION Of the Late <hi>Viſcount STAFFORD.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>SHall every Jack and every Jill,</l>
+               <l>That rides in State up <hi>Holborn</hi>-Hill</l>
+               <l>By aid of <hi>Smithfield</hi> Rhymes defie</l>
+               <l>The Malice of Mortality?</l>
+               <l>And ſhall Lord <hi>Stafford</hi> dye forgot?</l>
+               <l>He that would needs be ſuch a Sot,</l>
+               <l>To dye for love of a damn'd Plot?</l>
+               <l>No, <hi>Viſcount,</hi> no; beleive it not,</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <hi>Diana's</hi> Temple, all in flame,</l>
+               <l>Advanc'd th' Incendiaries Name;</l>
+               <l>Ruffians, and Bauds, and Whores, and Theives,</l>
+               <l>In Ballad Records live new lives,</l>
+               <l>And ſhall a Lord becauſe a Traytor,</l>
+               <l>In ſuch an Age ſo given to flatter,</l>
+               <l>Want that which others, Saints to him,</l>
+               <l>Nere want to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame them<g ref="char:punc">▪</g> Words and Rhime.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Oh Sir, the <hi>Papiſhes,</hi> you know</l>
+               <l>Have much more gratitude then ſo;</l>
+               <l>For this ſame Lord that brake the Laws</l>
+               <l>Of God and Man, to ſerve their Cauſe,</l>
+               <l>Shall live in Prayers, and Almanacks</l>
+               <l>Beyond what Ballad-Monger make;</l>
+               <l>And ſome years hence, you'l ſee, ſhall work</l>
+               <l>Such Miracles, would turn a <hi>Turk.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Bleſt is that Man that has a Box</l>
+               <l>To ſave the Sawduſt in, that ſokes</l>
+               <l>His tainted Blood, or can beſmeare</l>
+               <l>One corner of his Muckinder;</l>
+               <l>Oh! then, ſome Ages hence they'l cry</l>
+               <l>Lo, <hi>Stafford</hi>'s blood, and ſhed for why?</l>
+               <l>For notihng but becauſe he ſought</l>
+               <l>To kill his Prince, and ſham the Plot.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Now they that dye for crimes like theſe,</l>
+               <l>The <hi>Papiſts</hi> ſend to Heaven with eaſe.</l>
+               <l>For they ſecure 'em ſafe from Hell,</l>
+               <l>Which once beleiv'd, the reſt is well.</l>
+               <l>A ſtrange beleif, that Men ſhould think</l>
+               <l>That were not drunk with worſe then Drink;</l>
+               <l>That ſuch Rewards as Deifying,</l>
+               <l>By Treaſon ſhould begain'd and Lying!</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>The Man that for Religion dyes</l>
+               <l>Has nothing more before his Eyes,</l>
+               <l>But he that dyes a Criminal</l>
+               <l>Dyes with a load, and none can call</l>
+               <l>Religion that which makes him dream</l>
+               <l>Obduracy can hide his ſhame.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The Pope may do what he conjectures</l>
+               <l>As to the buſineſs of his Pictures,</l>
+               <l>The Colours nere can hide the Crimes,</l>
+               <l>Stories will read to after Times.</l>
+               <l>And twill be found 'the Hangmans hands,</l>
+               <l>Will ſtrangely blur the Pope's commands.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Had he but ſhewed ſome <hi>Christmas</hi> Gambles,</l>
+               <l>And Headleſs took St <hi>Denis</hi> Rambles,</l>
+               <l>The Plot had been a damnable thing,</l>
+               <l>And down had gon the Scaffolding,</l>
+               <l>But cauſe his Lordſhip this forgot,</l>
+               <l>Men ſtill beleive there is a Plot.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Where was St. <hi>Dominic,</hi> a ſleep?</l>
+               <l>Where did St <hi>Frank,</hi> his Kennel keep?</l>
+               <l>That on a buſineſs ſo emergen,</l>
+               <l>They did not briskly teize the Virgin?</l>
+               <l>To let his Lordſhip play a Prank</l>
+               <l>Her Grace becoming, and his Rank?</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>But they that Heaven and Earth command,</l>
+               <l>You ſee ſometimes they'r at a ſtand;</l>
+               <l>For rruth to tell ye, ſhould the Saints,</l>
+               <l>Be bound to hear all fool's complaints;</l>
+               <l>Their lives would be as voyd of mirth</l>
+               <l>In Heaven, as formerly on Earth.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Now Ballad-wiſe before he's dead,</l>
+               <l>To tell ye what the Sufferer ſaid;</l>
+               <l>He both defended, and gain-ſaid,</l>
+               <l>Held up his hands and cry'd and pray'd</l>
+               <l>And ſwore he nere was in the Plot,</l>
+               <l>No, by his Vicountſhip, God wot.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Come come, Sir, had it not been better</l>
+               <l>To have dy'd to death common debter?</l>
+               <l>And that upon your laſting Stone,</l>
+               <l>This Character had been alone?</l>
+               <l>
+                  <hi>Here lyes a very Honeſt Lord,</hi>
+               </l>
+               <l>
+                  <hi>True to his King, true to his word.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>But thoſe, of your Religion,</l>
+               <l>Are now a days ſo damn'd high flown,</l>
+               <l>You think that nothing makes a Saint</l>
+               <l>But Plot refin'd, and Treaſon Quaint;</l>
+               <l>And Heaven accepts no Offerings,</l>
+               <l>But ruin'd Kingdoms, murdered Kings.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Now you that knew who were his Judges,</l>
+               <l>Who found him Guilty without grudges,</l>
+               <l>Who gave him over to the Block,</l>
+               <l>And how he ſham'd to ſave the ſtroak,</l>
+               <l>If you beleive the ſpeech he made ye,</l>
+               <l>
+                  <hi>L'ſtrange,</hi> and <hi>Payton</hi>'s ſhame degrade ye</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>They us'd all Arts that could cajole,</l>
+               <l>You may be ſure, his ſilly Soul;</l>
+               <l>And were thoſe promiſes perform'd,</l>
+               <l>With which his conſcience they had charm'd,</l>
+               <l>Who would betray a curſed Plot,</l>
+               <l>To be when dead, the Lord knows what?</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>But if thoſe jolly Promiſes</l>
+               <l>Do ſend thee into little eaſe,</l>
+               <l>As certainly they muſt undo thee,</l>
+               <l>What ever Fools and Knaves ſaid to thee;</l>
+               <l>Then <hi>Phlegeus</hi>-like in Hell condole,</l>
+               <l>And curſe them that betray'd thy Soul.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Now God preſerve our Noble King,</l>
+               <l>And bleſs all them that thus did bring</l>
+               <l>Unto the Block that ſilly Head,</l>
+               <l>That car'd not what it did or ſaid.</l>
+               <l>And all good Men may Heaven defend,</l>
+               <l>From ſuch a vile untimely End.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. M. December,</hi> 29, 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
